@@ -5,5 +5,5 @@ def countdown(number)
   number -= 1
   break if number == 0
 end
-puts "HAPPY NEW YEAR!"
+return "HAPPY NEW YEAR!"
 end
